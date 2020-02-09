@@ -1,0 +1,38 @@
+.banner {
+    height: 75px;
+    margin: 0px -10px 10px;
+    background-color: orange;
+    border-radius: 2px;
+}
+
+.banner h2{
+	text-align: center;
+    color: white;
+    padding-top: 10px;
+    margin-left: 2%;
+    display: inline-block;
+}
+
+.banner Img{
+    position: relative;
+    float: right;
+    right: 10px;
+    height: 75px;
+}
+
+.attritiontable h3{
+	text-align: center;
+	padding-top: 10px;
+    margin-left: 2%;
+    display: inline-block;
+}
+
+.footr footer{
+	text-align: center;
+	bottom: 0;
+	width: 100%; 
+}
+
+.footr p{
+	font-size: 10px;
+}
